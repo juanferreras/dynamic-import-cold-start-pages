@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "wrangler pages dev ./public",
-    "deploy": "wrangler pages deploy ./public --project-name=dynamic-import-cold-start-pages --branch=small"
+    "deploy": "wrangler pages deploy ./public --project-name=dynamic-import-cold-start-pages --branch=medium"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240222.0",
